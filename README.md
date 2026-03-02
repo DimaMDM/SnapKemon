@@ -69,6 +69,8 @@ src/
 
 📦 [Télécharger l'APK](https://github.com/DimaMDM/SnapKemon/releases/tag/SnapKemon) — Compatible Android
 
+> ⚠️ Version de démonstration — quelques bugs subsistent et des outils de debug sont visibles. Le projet est en cours de finalisation.
+
 ---
 
 ## Installation (développeurs)
