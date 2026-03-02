@@ -73,6 +73,20 @@ src/
 
 ---
 
+## Screenshots
+
+### Détection & Identification
+| Temps réel | Pipeline | Résultat unique | Résultats multiples |
+|------------|----------|-----------------|---------------------|
+| ![](screenshots/TempReel.jpg) | ![](screenshots/pipeline.jpg) | ![](screenshots/ResultatUnique.jpg) | ![](screenshots/ResultatMult.jpg) |
+
+### Collection & Communauté
+| Accueil | Ma collection | Détail carte | Pokédex | Communauté |
+|---------|---------------|--------------|---------|------------|
+| ![](screenshots/Acceuil.jpg) | ![](screenshots/collection.jpg) | ![](screenshots/detail.jpg) | ![](screenshots/pokedex.jpg) | ![](screenshots/commu.jpg) |
+
+---
+
 ## Installation (développeurs)
 ```sh
 git clone <repository-url>
